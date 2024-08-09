@@ -1,7 +1,8 @@
 ﻿<h3>c_series</h3>
 <p>
 C1, Customs declaration, cn-fr<br>
-C5, Advice, A.R., year 1991, cn-fr
+C5, Advice, A.R., year 1991, cn-fr<br>
+C25, Postal identity card, cn-fr
 </p>
 
 <p>
