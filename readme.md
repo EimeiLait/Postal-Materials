@@ -15,10 +15,10 @@ CN24, Report, cn-fr
 
 <h3>chinese</h3>
 <p>
-1117, Advice, A.R., cn</br>
-1407, Return, cn</br>
-1410, Re-delivery, cn</br>
-1608, Application for inquiry for a postal mail, cn</br>
+1117, Advice,国内邮政回执, A.R., cn</br>
+1407, Return, 改退批条, cn</br>
+1410, Re-delivery, 再投邮件批条, cn</br>
+1608, Application for inquiry for a postal mail, 查询邮件申请书, cn</br>
 2102, Receipt for item (used in Beijing), cn; Receipt of registered mail, cn-fr</br>
-2602T, Inquiry (to Taiwan), cn</br>
+2602T, Inquiry (to Taiwan), 对台查单, cn</br>
 </p>
