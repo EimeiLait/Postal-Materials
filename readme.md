@@ -20,4 +20,5 @@ CN24, Report, cn-fr
 1410, Re-delivery, cn</br>
 1608, Application for inquiry for a postal mail, cn</br>
 2102, Receipt for item (used in Beijing), cn; Receipt of registered mail, cn-fr</br>
+2602T, Inquiry (to Taiwan), cn</br>
 </p>
