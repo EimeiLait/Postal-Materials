@@ -1,4 +1,4 @@
-﻿<h3>c_series C单据</h3>
+﻿<h3>朋友再会 GOOD BYE MY FRIENDS/h3>
 <p>
 C1, 验关签条</br>
 C5, 国际邮件回执（华盛顿版）</br>
