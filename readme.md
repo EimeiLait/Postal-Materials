@@ -1,4 +1,4 @@
-﻿<h3>朋友再会 GOOD BYE FRIENDS</h3>
+﻿<h3>单据编号对照表</h3>
 <p>
 C1, 验关签条</br>
 C3,报税单</br>
@@ -15,10 +15,16 @@ CN24, 验关单
 
 <h3>chinese</h3>
 <p>
-1117, Advice, 国内邮政回执, A.R., cn</br>
-1407, Return, 改退批条, cn</br>
-1410, Re-delivery, 再投邮件批条, cn</br>
-1608, Inquiry, 查询邮件申请书, cn</br>
-2102, Receipt for item (used in Beijing), cn; Receipt of registered mail, cn-fr</br>
-2602T, Inquiry (to Taiwan), 对台查单, cn</br>
+1117, 国内邮政回执</br>
+1407, 改退批条</br>
+1410, 再投邮件批条</br>
+1608, 查询邮件申请书</br>
+2102, 收据</br>
+2602T, 对台查单</br>
 </p>
+
+<p>
+再会。
+</p>
+
+
